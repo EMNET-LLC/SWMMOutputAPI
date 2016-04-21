@@ -1,0 +1,1 @@
+"C:\Python35\pythonw.exe" "C:\Python35\Lib\idlelib\idle.pyw" -e "QuickWrapperTesting.py"

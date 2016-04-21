@@ -1,6 +1,5 @@
 import sys
 sys.path.append('..')
-
 from datetime import datetime, timedelta
 from SWMMOutputReader import *
 import matplotlib.pyplot as plt
